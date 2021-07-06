@@ -41,7 +41,7 @@ createCanvas(1200,300);
 path=createSprite(100,150);
 path.addImage(pathImg);
 path.velocityX = -5;
-path.scale = 4
+path.scale = 7
 
 //creating boy running
 mainCyclist  = createSprite(70,150);
