@@ -86,7 +86,7 @@ function draw() {
   
   //code to reset the background
   if(path.x < 0 ){
-    path.x = width/10;
+    path.x = width/2;
   }
   
     //code to play cycle bell sound
